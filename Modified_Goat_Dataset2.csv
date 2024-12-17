@@ -1,0 +1,336 @@
+ID Ternak,Umur,Berat Badan (kg),Status Kesehatan,Hari dari Vaksinasi Terakhir,Jenis Vaksin Terakhir,Riwayat Penyakit,Jenis Pakan,Jumlah Pakan Harian (kg)
+KMB001,6,64,Sehat,474,Clostridium,Infeksi Kuku,Konsentrat,4.3
+KMB002,2,41,Sakit,663,Antraks,Infeksi Kuku,Konsentrat,5.8
+KMB003,0,56,Sakit,591,Clostridium,Infeksi Kuku,Jerami,4.6
+KMB004,6,52,Sakit,680,Antraks,Flu,Rumput Gajah,4.6
+KMB005,4,41,Sakit,675,Clostridium,Infeksi Kuku,Jerami,5.9
+KMB006,3,42,Sakit,594,Antraks,Cacingan,Jerami,4.7
+KMB007,6,48,Sehat,652,Clostridium,Flu,Konsentrat,4.3
+KMB008,4,62,Sehat,517,Antraks,Cacingan,Rumput Gajah,4.9
+KMB009,2,48,Sehat,587,Antraks,Infeksi Kuku,Rumput Gajah,4.3
+KMB010,5,46,Sakit,667,Clostridium,Cacingan,Rumput dan Jerami,5.4
+KMB011,4,54,Sakit,505,Antraks,Flu,Rumput dan Jerami,4.9
+KMB012,5,65,Sehat,678,Antraks,Infeksi Kuku,Konsentrat,5.6
+KMB013,3,51,Sakit,665,Clostridium,Flu,Jerami,4.3
+KMB014,2,55,Sakit,578,Clostridium,Cacingan,Jerami,4.6
+KMB015,2,49,Sakit,464,Antraks,Infeksi Kuku,Rumput Gajah,4.4
+KMB016,4,49,Sehat,683,Antraks,Infeksi Kuku,Jerami,5.1
+KMB017,4,57,Sehat,479,Clostridium,Infeksi Kuku,Rumput dan Jerami,4.5
+KMB018,2,41,Sehat,664,Antraks,Cacingan,Rumput Gajah,5.4
+KMB019,2,53,Sakit,515,Clostridium,Cacingan,Jerami,4.8
+KMB020,4,44,Sakit,665,Antraks,Flu,Rumput Gajah,5.1
+KMB021,3,56,Sakit,466,Antraks,Infeksi Kuku,Jerami,4.7
+KMB022,3,54,Sakit,684,Antraks,Infeksi Kuku,Rumput Gajah,4.1
+KMB023,6,61,Sakit,468,Antraks,Flu,Rumput Gajah,5.6
+KMB024,1,61,Sakit,622,Clostridium,Flu,Rumput dan Jerami,4.3
+KMB025,3,55,Sakit,650,Antraks,Infeksi Kuku,Rumput Gajah,6
+KMB026,5,56,Sakit,556,Antraks,Infeksi Kuku,Rumput dan Jerami,4.6
+KMB027,4,51,Sakit,458,Antraks,Infeksi Kuku,Konsentrat,4
+KMB028,4,61,Sehat,531,Clostridium,Infeksi Kuku,Rumput dan Jerami,4.3
+KMB029,1,65,Sehat,544,Antraks,Infeksi Kuku,Rumput Gajah,4.3
+KMB030,1,51,Sehat,439,Antraks,Infeksi Kuku,Rumput dan Jerami,5
+KMB031,2,53,Sakit,550,Clostridium,Infeksi Kuku,Rumput dan Jerami,4.8
+KMB032,1,41,Sakit,424,Antraks,Flu,Konsentrat,4.5
+KMB033,5,47,Sehat,676,Antraks,Cacingan,Konsentrat,5
+KMB034,2,44,Sakit,540,Clostridium,Infeksi Kuku,Konsentrat,5.4
+KMB035,2,53,Sakit,621,Clostridium,Infeksi Kuku,Rumput Gajah,5
+KMB036,1,21,Sehat,103,PPR,Infeksi Paru-paru,Rumput Gajah,1.93
+KMB037,7,20,Sehat,230,Tetanus,Infeksi Paru-paru,Jerami,3.86
+KMB038,4,50,Sehat,312,Clostridium,Infeksi Paru-paru,Rumput dan Jerami,4.72
+KMB039,5,37,Sakit,224,PPR,Mastitis,Konsentrat,1.43
+KMB040,7,27,Sehat,155,Rabies,Mastitis,Jerami,1.3
+KMB041,2,42,Sakit,89,PPR,Parasit,Konsentrat,3.96
+KMB042,10,34,Sehat,261,Tetanus,Parasit,Rumput dan Jerami,1.37
+KMB043,9,23,Sehat,170,PPR,Parasit,Rumput Gajah,1.71
+KMB044,4,30,Sehat,340,Rabies,Parasit,Jerami,1.34
+KMB045,2,27,Sakit,331,Clostridium,Infeksi Paru-paru,Konsentrat,1.3
+KMB046,1,45,Sakit,300,PPR,Parasit,Rumput dan Jerami,2.21
+KMB047,6,22,Sehat,348,Clostridium,Parasit,Konsentrat,3.92
+KMB048,5,39,Sakit,236,Tetanus,Parasit,Konsentrat,2.82
+KMB049,3,32,Sakit,174,Clostridium,Mastitis,Jerami,2.7
+KMB050,7,45,Sehat,112,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,4.09
+KMB051,6,40,Sakit,225,PPR,-,Jerami,1.99
+KMB052,5,45,Sakit,89,Rabies,Parasit,Rumput Gajah,3.31
+KMB053,5,37,Sehat,315,Rabies,Mastitis,Rumput dan Jerami,4.38
+KMB054,10,28,Sehat,314,Clostridium,-,Rumput Gajah,3.92
+KMB055,10,35,Sehat,166,Clostridium,Mastitis,Jerami,3.67
+KMB056,10,31,Sakit,336,Rabies,Infeksi Paru-paru,Rumput Gajah,2.1
+KMB057,6,42,Sehat,58,Rabies,-,Jerami,3.65
+KMB058,7,26,Sehat,76,Clostridium,Mastitis,Jerami,4.73
+KMB059,4,35,Sakit,359,Tetanus,Parasit,Rumput dan Jerami,2.82
+KMB060,9,32,Sakit,246,PPR,Infeksi Paru-paru,Rumput Gajah,1.9
+KMB061,5,29,Sakit,65,Rabies,Mastitis,Rumput Gajah,1.54
+KMB062,9,24,Sehat,83,Clostridium,Infeksi Paru-paru,Rumput Gajah,2.51
+KMB063,5,41,Sakit,43,Clostridium,Parasit,Konsentrat,2.37
+KMB064,2,48,Sehat,9,Tetanus,Parasit,Rumput Gajah,4.92
+KMB065,6,21,Sakit,105,Tetanus,-,Rumput dan Jerami,1.63
+KMB066,6,41,Sakit,211,Tetanus,Mastitis,Rumput Gajah,3.32
+KMB067,5,43,Sakit,180,Clostridium,Mastitis,Rumput Gajah,2.29
+KMB068,1,27,Sehat,278,Clostridium,Mastitis,Rumput Gajah,3.67
+KMB069,3,48,Sakit,324,Clostridium,Parasit,Rumput dan Jerami,2.8
+KMB070,6,23,Sakit,3,Tetanus,-,Rumput Gajah,4.84
+KMB071,5,45,Sehat,317,PPR,Mastitis,Rumput Gajah,4.54
+KMB072,6,27,Sehat,30,PPR,-,Jerami,3.94
+KMB073,7,21,Sakit,348,Clostridium,Mastitis,Jerami,2.85
+KMB074,7,24,Sakit,124,Clostridium,Mastitis,Rumput dan Jerami,2.16
+KMB075,7,46,Sehat,146,PPR,Parasit,Rumput dan Jerami,4.78
+KMB076,9,23,Sakit,192,Rabies,Infeksi Paru-paru,Rumput Gajah,3.85
+KMB077,7,48,Sehat,355,Rabies,Parasit,Rumput Gajah,3.1
+KMB078,2,24,Sehat,207,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,4.97
+KMB079,5,35,Sakit,225,Clostridium,Infeksi Paru-paru,Jerami,4.48
+KMB080,3,26,Sehat,222,Clostridium,Mastitis,Rumput dan Jerami,2.7
+KMB081,9,40,Sehat,126,PPR,Infeksi Paru-paru,Konsentrat,3.86
+KMB082,10,40,Sehat,160,Rabies,Infeksi Paru-paru,Konsentrat,4.88
+KMB083,3,47,Sakit,34,Tetanus,Parasit,Rumput Gajah,3.79
+KMB084,4,40,Sakit,329,PPR,Infeksi Paru-paru,Rumput dan Jerami,4.52
+KMB085,8,25,Sehat,109,PPR,Parasit,Rumput Gajah,4.08
+KMB086,1,27,Sehat,209,Rabies,Parasit,Rumput dan Jerami,4.54
+KMB087,6,21,Sehat,71,Rabies,Parasit,Konsentrat,3.11
+KMB088,10,24,Sakit,161,Tetanus,Parasit,Rumput Gajah,3.73
+KMB089,8,22,Sakit,361,Clostridium,Mastitis,Konsentrat,1.78
+KMB090,3,38,Sakit,84,Clostridium,Parasit,Rumput Gajah,3.8
+KMB091,8,21,Sehat,300,Rabies,Parasit,Rumput dan Jerami,2.64
+KMB092,6,30,Sehat,26,PPR,Parasit,Jerami,3.17
+KMB093,2,42,Sehat,129,Tetanus,-,Konsentrat,2.94
+KMB094,2,46,Sehat,24,PPR,Parasit,Konsentrat,4.34
+KMB095,7,34,Sehat,115,Clostridium,-,Jerami,1.92
+KMB096,3,47,Sakit,32,PPR,Mastitis,Konsentrat,4.28
+KMB097,3,31,Sehat,342,Rabies,Mastitis,Jerami,2.91
+KMB098,8,26,Sakit,349,Tetanus,-,Jerami,4.99
+KMB099,9,34,Sehat,13,PPR,Mastitis,Rumput dan Jerami,4.88
+KMB100,10,25,Sehat,49,Rabies,Mastitis,Rumput Gajah,1.99
+KMB101,4,21,Sehat,352,Clostridium,-,Jerami,2.82
+KMB102,2,46,Sakit,257,PPR,Mastitis,Rumput Gajah,4.2
+KMB103,5,46,Sehat,295,Rabies,Parasit,Jerami,1.27
+KMB104,8,35,Sakit,228,Rabies,Infeksi Paru-paru,Rumput Gajah,3.27
+KMB105,8,22,Sehat,282,Clostridium,-,Konsentrat,2.1
+KMB106,1,27,Sehat,314,Tetanus,Parasit,Jerami,1.17
+KMB107,3,32,Sehat,126,Clostridium,Infeksi Paru-paru,Jerami,2.54
+KMB108,6,21,Sehat,288,Clostridium,Mastitis,Jerami,3.99
+KMB109,9,32,Sehat,280,PPR,-,Rumput dan Jerami,2.66
+KMB110,3,37,Sehat,327,Clostridium,Mastitis,Konsentrat,1.77
+KMB111,8,39,Sakit,109,PPR,Parasit,Rumput dan Jerami,4.13
+KMB112,2,38,Sehat,140,Tetanus,Parasit,Konsentrat,4.49
+KMB113,5,22,Sehat,298,Tetanus,Mastitis,Konsentrat,2.83
+KMB114,6,49,Sakit,221,Rabies,-,Jerami,1.41
+KMB115,1,27,Sehat,203,Rabies,-,Rumput Gajah,2.8
+KMB116,3,20,Sehat,130,Tetanus,-,Rumput dan Jerami,1.34
+KMB117,10,39,Sakit,17,Clostridium,Infeksi Paru-paru,Rumput Gajah,1.57
+KMB118,1,27,Sakit,9,Tetanus,Mastitis,Jerami,1.53
+KMB119,9,22,Sehat,351,Clostridium,Mastitis,Konsentrat,3.82
+KMB120,1,50,Sehat,46,PPR,Parasit,Rumput Gajah,1.73
+KMB121,6,35,Sehat,238,Rabies,Parasit,Rumput dan Jerami,3.43
+KMB122,1,38,Sehat,160,Tetanus,-,Rumput Gajah,3.69
+KMB123,5,44,Sehat,323,PPR,-,Konsentrat,3.82
+KMB124,3,30,Sakit,349,Clostridium,Parasit,Jerami,2.47
+KMB125,9,49,Sehat,251,PPR,-,Konsentrat,2.58
+KMB126,4,40,Sakit,201,Tetanus,Infeksi Paru-paru,Konsentrat,1.94
+KMB127,4,22,Sakit,135,Rabies,Parasit,Konsentrat,2.36
+KMB128,6,21,Sehat,305,Tetanus,Parasit,Jerami,4.14
+KMB129,2,40,Sehat,91,PPR,-,Rumput Gajah,1.83
+KMB130,1,44,Sakit,163,PPR,-,Rumput dan Jerami,3.55
+KMB131,5,32,Sehat,204,PPR,Mastitis,Rumput dan Jerami,4.39
+KMB132,1,36,Sehat,269,Tetanus,Infeksi Paru-paru,Rumput Gajah,3.82
+KMB133,2,33,Sehat,189,Clostridium,Mastitis,Jerami,1.21
+KMB134,6,30,Sehat,84,Tetanus,-,Konsentrat,1.37
+KMB135,2,36,Sehat,243,Clostridium,Mastitis,Konsentrat,2.33
+KMB136,8,27,Sakit,53,Rabies,Parasit,Rumput Gajah,1.26
+KMB137,4,40,Sakit,248,Rabies,Infeksi Paru-paru,Jerami,1.93
+KMB138,10,28,Sehat,131,Clostridium,Mastitis,Konsentrat,3.41
+KMB139,7,28,Sehat,265,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,1.8
+KMB140,5,24,Sehat,165,PPR,-,Konsentrat,2.91
+KMB141,10,21,Sehat,133,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,4.12
+KMB142,4,41,Sehat,103,PPR,Infeksi Paru-paru,Konsentrat,2.38
+KMB143,9,21,Sehat,157,Tetanus,Parasit,Jerami,4.44
+KMB144,1,30,Sehat,217,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,4.07
+KMB145,2,36,Sehat,337,PPR,Infeksi Paru-paru,Rumput dan Jerami,2.48
+KMB146,8,24,Sehat,45,Rabies,Parasit,Rumput dan Jerami,1.4
+KMB147,3,44,Sakit,47,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,4.09
+KMB148,7,34,Sakit,294,Tetanus,Infeksi Paru-paru,Jerami,2.84
+KMB149,6,27,Sehat,56,Clostridium,Mastitis,Rumput Gajah,2.08
+KMB150,3,36,Sehat,147,Tetanus,Mastitis,Rumput dan Jerami,3.13
+KMB151,10,32,Sehat,0,PPR,Mastitis,Jerami,1.14
+KMB152,10,39,Sakit,160,Rabies,-,Konsentrat,3.32
+KMB153,4,42,Sehat,149,Tetanus,-,Konsentrat,1.84
+KMB154,3,23,Sehat,60,PPR,Parasit,Jerami,3.78
+KMB155,7,24,Sehat,29,Tetanus,-,Rumput Gajah,1.4
+KMB156,7,32,Sehat,257,Rabies,Infeksi Paru-paru,Konsentrat,2.48
+KMB157,3,27,Sehat,233,Clostridium,Mastitis,Rumput Gajah,1.08
+KMB158,6,45,Sehat,148,Clostridium,Mastitis,Jerami,1.61
+KMB159,6,36,Sehat,216,PPR,Infeksi Paru-paru,Rumput dan Jerami,3.3
+KMB160,4,22,Sehat,362,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,1.94
+KMB161,8,42,Sakit,153,Clostridium,Mastitis,Jerami,1.18
+KMB162,5,32,Sakit,96,Clostridium,Mastitis,Jerami,4.43
+KMB163,8,39,Sakit,239,PPR,Mastitis,Konsentrat,3.14
+KMB164,5,36,Sehat,145,Clostridium,Parasit,Konsentrat,4.32
+KMB165,4,27,Sehat,167,Rabies,Mastitis,Jerami,1.62
+KMB166,4,49,Sehat,159,PPR,Mastitis,Rumput Gajah,4.61
+KMB167,6,30,Sehat,140,Tetanus,Mastitis,Jerami,2.38
+KMB168,4,50,Sakit,275,Clostridium,Mastitis,Konsentrat,4.98
+KMB169,8,27,Sehat,299,PPR,Parasit,Jerami,3.62
+KMB170,4,32,Sakit,360,PPR,Parasit,Jerami,2.77
+KMB171,4,27,Sehat,252,PPR,Infeksi Paru-paru,Konsentrat,1.02
+KMB172,5,35,Sakit,237,Clostridium,Infeksi Paru-paru,Jerami,1.66
+KMB173,3,38,Sehat,174,Clostridium,Mastitis,Rumput dan Jerami,2.6
+KMB174,9,41,Sakit,244,Rabies,-,Rumput dan Jerami,2.67
+KMB175,9,29,Sehat,12,Clostridium,Mastitis,Konsentrat,1.05
+KMB176,6,26,Sehat,364,Rabies,Parasit,Jerami,2.47
+KMB177,3,48,Sehat,111,PPR,Infeksi Paru-paru,Rumput dan Jerami,3.46
+KMB178,4,36,Sakit,12,Clostridium,Parasit,Jerami,1.15
+KMB179,3,39,Sakit,117,Rabies,Mastitis,Konsentrat,1.47
+KMB180,8,22,Sehat,226,Tetanus,Mastitis,Jerami,1.04
+KMB181,9,28,Sehat,349,Tetanus,-,Konsentrat,1.25
+KMB182,7,27,Sehat,285,Clostridium,-,Jerami,1.65
+KMB183,6,37,Sehat,186,PPR,-,Rumput Gajah,3.41
+KMB184,2,23,Sehat,300,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,4.02
+KMB185,4,33,Sakit,305,PPR,Mastitis,Jerami,3.12
+KMB186,1,47,Sakit,87,Tetanus,Mastitis,Rumput Gajah,1.29
+KMB187,8,40,Sehat,110,Rabies,Infeksi Paru-paru,Rumput dan Jerami,3.53
+KMB188,3,45,Sehat,167,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,2.71
+KMB189,4,22,Sehat,139,PPR,-,Rumput Gajah,1.39
+KMB190,9,33,Sehat,125,Rabies,Infeksi Paru-paru,Rumput Gajah,4.9
+KMB191,9,36,Sehat,100,Tetanus,Mastitis,Konsentrat,4.96
+KMB192,3,43,Sehat,14,Rabies,-,Konsentrat,2.52
+KMB193,3,39,Sehat,164,Rabies,-,Konsentrat,1.77
+KMB194,4,35,Sehat,317,Clostridium,Mastitis,Jerami,1.98
+KMB195,5,38,Sakit,49,Tetanus,Infeksi Paru-paru,Rumput Gajah,3.14
+KMB196,6,22,Sehat,284,Tetanus,Parasit,Jerami,2.69
+KMB197,8,21,Sehat,85,PPR,Mastitis,Rumput dan Jerami,1.69
+KMB198,3,37,Sakit,288,Rabies,Infeksi Paru-paru,Rumput dan Jerami,2.07
+KMB199,2,21,Sehat,281,Clostridium,Mastitis,Jerami,2.47
+KMB200,8,45,Sakit,117,Tetanus,Parasit,Konsentrat,3.63
+KMB201,1,25,Sehat,233,Clostridium,Mastitis,Jerami,3.71
+KMB202,5,32,Sakit,174,Tetanus,Infeksi Paru-paru,Jerami,2.97
+KMB203,9,35,Sehat,132,Clostridium,-,Jerami,1.38
+KMB204,8,31,Sehat,299,Rabies,Mastitis,Konsentrat,2.56
+KMB205,3,47,Sehat,118,PPR,Infeksi Paru-paru,Jerami,2.61
+KMB206,5,34,Sakit,80,Tetanus,Parasit,Rumput dan Jerami,3.13
+KMB207,9,36,Sehat,186,Clostridium,Parasit,Rumput dan Jerami,4.16
+KMB208,3,22,Sakit,314,PPR,Mastitis,Konsentrat,1.5
+KMB209,5,44,Sehat,143,PPR,Infeksi Paru-paru,Rumput Gajah,4.09
+KMB210,6,31,Sehat,162,Clostridium,Mastitis,Jerami,3.69
+KMB211,10,45,Sehat,65,PPR,Infeksi Paru-paru,Rumput Gajah,4.42
+KMB212,6,45,Sehat,161,Rabies,Mastitis,Konsentrat,2.48
+KMB213,1,36,Sehat,356,Clostridium,Infeksi Paru-paru,Konsentrat,2.59
+KMB214,6,20,Sehat,124,PPR,Mastitis,Rumput Gajah,4.06
+KMB215,4,44,Sehat,349,Rabies,-,Rumput Gajah,2.49
+KMB216,5,32,Sehat,41,PPR,Parasit,Rumput dan Jerami,2.52
+KMB217,10,46,Sakit,184,Tetanus,Infeksi Paru-paru,Jerami,1.03
+KMB218,2,34,Sehat,86,PPR,Mastitis,Rumput Gajah,1.85
+KMB219,6,41,Sakit,163,PPR,Mastitis,Jerami,3.5
+KMB220,6,24,Sehat,15,Tetanus,-,Konsentrat,1.86
+KMB221,2,46,Sehat,339,Tetanus,Infeksi Paru-paru,Jerami,3.29
+KMB222,5,46,Sakit,143,Rabies,-,Rumput Gajah,1.07
+KMB223,10,42,Sakit,213,Rabies,Mastitis,Jerami,2.92
+KMB224,7,35,Sakit,364,PPR,Parasit,Rumput dan Jerami,4.51
+KMB225,4,26,Sehat,269,PPR,Mastitis,Rumput dan Jerami,3.83
+KMB226,9,49,Sakit,319,Tetanus,Infeksi Paru-paru,Rumput Gajah,2.83
+KMB227,5,25,Sehat,11,PPR,Parasit,Jerami,3.53
+KMB228,6,32,Sakit,46,Rabies,Mastitis,Rumput dan Jerami,4.95
+KMB229,7,36,Sakit,244,PPR,Infeksi Paru-paru,Jerami,1.22
+KMB230,9,46,Sakit,215,Tetanus,Infeksi Paru-paru,Rumput Gajah,4.87
+KMB231,10,45,Sehat,98,Clostridium,-,Rumput Gajah,1.24
+KMB232,4,28,Sehat,233,PPR,Parasit,Jerami,3.32
+KMB233,1,46,Sehat,165,Tetanus,Mastitis,Konsentrat,1.91
+KMB234,10,37,Sehat,14,Tetanus,-,Rumput dan Jerami,4.98
+KMB235,4,44,Sehat,339,Tetanus,Infeksi Paru-paru,Jerami,2.14
+KMB236,3,28,Sehat,254,Rabies,Infeksi Paru-paru,Rumput dan Jerami,4.82
+KMB237,3,38,Sehat,254,Clostridium,Parasit,Rumput dan Jerami,1.83
+KMB238,10,28,Sehat,170,PPR,-,Konsentrat,2.58
+KMB239,9,46,Sehat,63,Tetanus,-,Jerami,2.13
+KMB240,10,24,Sehat,242,Rabies,Infeksi Paru-paru,Jerami,2.7
+KMB241,7,45,Sakit,66,PPR,Mastitis,Rumput dan Jerami,2.75
+KMB242,4,39,Sehat,71,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,1.97
+KMB243,10,24,Sakit,10,Rabies,Mastitis,Konsentrat,4.25
+KMB244,8,41,Sehat,133,Rabies,Mastitis,Jerami,2.96
+KMB245,5,24,Sehat,118,Clostridium,-,Konsentrat,3.81
+KMB246,8,36,Sakit,361,PPR,Parasit,Konsentrat,3.98
+KMB247,1,46,Sehat,354,PPR,Mastitis,Rumput dan Jerami,2.7
+KMB248,5,23,Sehat,315,Tetanus,Mastitis,Rumput dan Jerami,1.64
+KMB249,9,46,Sehat,340,Rabies,Mastitis,Jerami,2.01
+KMB250,3,36,Sehat,86,Tetanus,Mastitis,Jerami,3.97
+KMB251,4,41,Sakit,319,PPR,Infeksi Paru-paru,Rumput dan Jerami,4.94
+KMB252,8,40,Sakit,305,Rabies,Mastitis,Rumput dan Jerami,2.02
+KMB253,2,31,Sakit,49,Clostridium,-,Jerami,1.67
+KMB254,1,41,Sakit,182,Clostridium,Parasit,Rumput dan Jerami,1.55
+KMB255,6,46,Sakit,172,Tetanus,Mastitis,Rumput Gajah,3.1
+KMB256,5,23,Sehat,164,Rabies,Infeksi Paru-paru,Rumput Gajah,2.51
+KMB257,5,26,Sehat,225,PPR,Parasit,Jerami,4.78
+KMB258,1,45,Sakit,95,Clostridium,-,Rumput dan Jerami,4.63
+KMB259,9,23,Sehat,139,Clostridium,Mastitis,Rumput dan Jerami,3.74
+KMB260,9,30,Sehat,195,Tetanus,Mastitis,Rumput dan Jerami,4.07
+KMB261,7,21,Sakit,111,PPR,Parasit,Jerami,4.77
+KMB262,9,44,Sehat,21,Clostridium,-,Jerami,2.3
+KMB263,8,49,Sehat,351,Tetanus,Parasit,Konsentrat,4.86
+KMB264,1,39,Sakit,64,Rabies,-,Konsentrat,2.24
+KMB265,7,42,Sehat,311,Clostridium,Parasit,Rumput dan Jerami,3.46
+KMB266,3,31,Sehat,69,PPR,Parasit,Rumput dan Jerami,1.44
+KMB267,3,36,Sehat,166,Tetanus,Infeksi Paru-paru,Rumput Gajah,1.93
+KMB268,10,38,Sakit,142,Tetanus,Infeksi Paru-paru,Rumput dan Jerami,1.65
+KMB269,7,26,Sakit,199,Clostridium,Infeksi Paru-paru,Jerami,1.02
+KMB270,9,38,Sakit,344,Clostridium,Infeksi Paru-paru,Konsentrat,3.49
+KMB271,2,45,Sehat,157,PPR,-,Konsentrat,4.51
+KMB272,2,40,Sehat,66,PPR,Parasit,Konsentrat,4.61
+KMB273,6,23,Sakit,304,PPR,Parasit,Konsentrat,1.97
+KMB274,10,36,Sakit,57,PPR,Infeksi Paru-paru,Jerami,1.46
+KMB275,5,48,Sehat,183,Rabies,-,Rumput Gajah,4.21
+KMB276,9,48,Sehat,113,PPR,Infeksi Paru-paru,Jerami,1.54
+KMB277,7,29,Sakit,165,Tetanus,-,Rumput dan Jerami,3.57
+KMB278,3,48,Sakit,9,Rabies,-,Konsentrat,3.63
+KMB279,6,37,Sehat,336,Clostridium,Parasit,Konsentrat,1.32
+KMB280,5,34,Sehat,70,Clostridium,Parasit,Rumput dan Jerami,3.87
+KMB281,2,30,Sehat,220,Tetanus,Parasit,Rumput Gajah,2.09
+KMB282,5,38,Sakit,300,PPR,-,Jerami,1.61
+KMB283,8,25,Sehat,173,Clostridium,-,Konsentrat,1.28
+KMB284,3,49,Sehat,339,Rabies,Infeksi Paru-paru,Rumput dan Jerami,3.98
+KMB285,7,37,Sehat,263,PPR,Parasit,Konsentrat,4.29
+KMB286,6,46,Sakit,152,PPR,Infeksi Paru-paru,Rumput Gajah,4.23
+KMB287,7,38,Sehat,224,Tetanus,Mastitis,Rumput Gajah,1.05
+KMB288,3,22,Sakit,103,Tetanus,Infeksi Paru-paru,Rumput Gajah,4.69
+KMB289,6,48,Sakit,309,Clostridium,Infeksi Paru-paru,Rumput Gajah,1.79
+KMB290,6,49,Sakit,63,Clostridium,-,Jerami,4.88
+KMB291,7,48,Sehat,54,Rabies,-,Konsentrat,3.43
+KMB292,9,20,Sehat,1,Clostridium,Infeksi Paru-paru,Rumput dan Jerami,4.27
+KMB293,8,36,Sehat,146,PPR,-,Rumput Gajah,1.29
+KMB294,2,20,Sakit,232,PPR,-,Jerami,3.02
+KMB295,8,46,Sakit,217,PPR,-,Jerami,3.06
+KMB296,3,38,Sakit,298,PPR,-,Jerami,4.5
+KMB297,5,29,Sakit,26,Clostridium,-,Rumput Gajah,3.07
+KMB298,5,33,Sehat,130,Clostridium,-,Rumput Gajah,1.23
+KMB299,9,43,Sakit,249,Rabies,Mastitis,Konsentrat,3.24
+KMB300,5,25,Sehat,163,PPR,Infeksi Paru-paru,Rumput Gajah,1.25
+KMB301,9,38,Sakit,40,Rabies,Infeksi Paru-paru,Jerami,4.58
+KMB302,6,36,Sehat,143,Clostridium,-,Jerami,1.04
+KMB303,8,37,Sehat,302,PPR,Parasit,Konsentrat,1.52
+KMB304,6,42,Sehat,251,Rabies,-,Jerami,4.11
+KMB305,8,24,Sakit,181,PPR,-,Rumput Gajah,4.81
+KMB306,10,47,Sehat,84,Clostridium,Infeksi Paru-paru,Rumput Gajah,1.21
+KMB307,1,30,Sehat,198,Tetanus,Mastitis,Rumput Gajah,3.24
+KMB308,8,37,Sakit,220,Clostridium,-,Konsentrat,4.46
+KMB309,4,43,Sehat,111,Clostridium,Parasit,Rumput dan Jerami,4.75
+KMB310,10,24,Sakit,292,PPR,-,Konsentrat,4.78
+KMB311,7,22,Sehat,277,Rabies,-,Jerami,1.55
+KMB312,5,26,Sehat,146,PPR,Parasit,Rumput dan Jerami,4.9
+KMB313,8,27,Sakit,323,Clostridium,Infeksi Paru-paru,Jerami,1.85
+KMB314,10,44,Sehat,339,Clostridium,Infeksi Paru-paru,Konsentrat,1.78
+KMB315,9,24,Sakit,283,Tetanus,-,Rumput dan Jerami,2.89
+KMB316,1,30,Sehat,269,Rabies,Infeksi Paru-paru,Konsentrat,1.29
+KMB317,1,41,Sakit,287,Tetanus,Parasit,Rumput Gajah,4.71
+KMB318,6,40,Sehat,45,Tetanus,-,Rumput Gajah,1.46
+KMB319,6,34,Sakit,293,Clostridium,Infeksi Paru-paru,Jerami,2.42
+KMB320,7,50,Sakit,313,Clostridium,-,Rumput dan Jerami,3.08
+KMB321,6,22,Sakit,31,Tetanus,Mastitis,Konsentrat,2.08
+KMB322,1,41,Sakit,3,Rabies,Infeksi Paru-paru,Rumput dan Jerami,3.8
+KMB323,3,42,Sakit,331,Clostridium,Mastitis,Rumput Gajah,2.03
+KMB324,5,49,Sakit,188,Clostridium,Mastitis,Konsentrat,2.51
+KMB325,9,41,Sehat,257,Clostridium,Parasit,Rumput dan Jerami,3.65
+KMB326,9,21,Sehat,241,PPR,Infeksi Paru-paru,Jerami,3.11
+KMB327,8,22,Sehat,184,Rabies,Parasit,Rumput dan Jerami,2.05
+KMB328,8,29,Sehat,75,Rabies,Parasit,Konsentrat,2.94
+KMB329,2,39,Sehat,261,Tetanus,Infeksi Paru-paru,Rumput Gajah,2.53
+KMB330,2,43,Sakit,308,Tetanus,Mastitis,Konsentrat,4.74
+KMB331,3,26,Sehat,77,Clostridium,Parasit,Jerami,2.45
+KMB332,5,39,Sakit,56,Rabies,Parasit,Rumput dan Jerami,2.01
+KMB333,10,36,Sehat,292,Rabies,Mastitis,Rumput Gajah,4.6
+KMB334,4,28,Sakit,129,Rabies,-,Jerami,2.66
+KMB335,7,22,Sakit,174,PPR,Mastitis,Konsentrat,2.08
